@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
+title: 南×遊記
+email: "huanghuangnz@gmail.com"
+description: "奥特亚罗瓦的星空"
 url: "https://huanghuangnz.github.io/"
 baseurl: "/photo"
 facebook_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   huanghuangnz
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
